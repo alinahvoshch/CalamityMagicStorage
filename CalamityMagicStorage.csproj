@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="Items\AuricStorageUnitItem.png" />
+	  <None Remove="Items\CosmiliteStorageUnitItem.png" />
+	  <None Remove="Items\ShadowspecStorageUnitItem.png" />
+	  <None Remove="Items\UelibloomStorageUnitItem.png" />
+	  <None Remove="Items\UpgradeAuric.png" />
+	  <None Remove="Items\UpgradeCosmilite.png" />
+	  <None Remove="Items\UpgradeShadowspec.png" />
+	  <None Remove="Items\UpgradeUelibloom.png" />
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>

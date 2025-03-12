@@ -1,0 +1,5 @@
+displayName = Calamity Magic Storage
+author = 2ikker
+version = 0.1
+modReferences = SerousCommonLib, MagicStorage, CalamityMod
+sortAfter = MagicStorage, SerousCommonLib, CalamityMod
